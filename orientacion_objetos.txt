@@ -1,0 +1,28 @@
+Clase 8 - Objetos
+
+Cuando tengamos un problema lo primero que se debe hacer es idenficar los Objetos
+
+Para identificar los objetos:
+    * Los objetos siempre van a tener propiedades y comportamientos
+    En algunos casos puede ser fisicos o conceptuales
+        se pueden identificar como sustantivos
+
+Las propiedad de los objetos tambien se pueden llamar atributos
+       Nombre, tamano, estado
+    * Son caracteristicas que tiene los objetos 
+
+Los objetos poseen comportamientos
+    * Son las acciones que pueden realiz  ar
+
+Ejemplo
+    Objeto:         Perro 
+    Propiedades:    nombre, color, realizar
+    comportamientos: Ladrar, comer, dormir, correr
+
+    Objeto:             Perro
+    Propiedades:        id, nombre, color, raza 
+    comportamientos:    ser_adoptado()
+
+--------------------------------------------------------------------------------------------------
+**************************************************************************************************
+--------------------------------------------------------------------------------------------------
