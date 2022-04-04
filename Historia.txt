@@ -1,1 +1,3 @@
-Este va a concertirse en mi archivo de apuntes de prueba
+Este va a convertirse en mi archivo de apuntes de prueba
+
+Primer modificacion desde gitbash despues de traer los archivos desde Github
