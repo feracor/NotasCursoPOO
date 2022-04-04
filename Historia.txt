@@ -5,3 +5,10 @@ Nombre: Fernando Acevedo Ortegate
 Edad: 31 años
 
 Ya no esta el barrio
+
+
+
+
+
+
+ahora quiero hacer cambios para la rama master antes de hacer un "merge"
