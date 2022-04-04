@@ -1,0 +1,35 @@
+[33mcommit 4b0281e3632647f3ac835bac2a67826e5a80e6ad[m[33m ([m[1;36mHEAD -> [m[1;32mcabecera[m[33m)[m
+Author: Fernando Acevedo <facevedo@gmail.com>
+Date:   Mon Apr 4 13:42:02 2022 -0500
+
+    Cambio en la cabecera
+
+ Historia.txt | 4 [32m+++[m[31m-[m
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+[33mcommit 11abf2d553ffcc19c4b9b2f53d0ec0c7b72c2e54[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Fernando Acevedo <facevedo@gmail.com>
+Date:   Mon Apr 4 13:08:18 2022 -0500
+
+    Ya no esta el barrio
+
+ Historia.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 82eb9d1f8f65dc2d96c8ad66f5d61d58eec0a99e[m
+Author: Fernando Acevedo <facevedo@gmail.com>
+Date:   Sat Apr 2 22:50:23 2022 -0500
+
+    Se agraga barrio
+
+ Historia.txt | 4 [32m+++[m[31m-[m
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+[33mcommit d4ab83f403053ee1909bfd45d999e6051c3364ef[m
+Author: feracor <fer.acevedo90@gmail.com>
+Date:   Sat Apr 2 22:42:22 2022 -0500
+
+    Este es el primer commit
+
+ Historia.txt | 5 [32m+++++[m
+ 1 file changed, 5 insertions(+)

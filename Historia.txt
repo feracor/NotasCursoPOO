@@ -7,8 +7,10 @@ Edad: 31 años
 Ya no esta el barrio
 
 
-
-
-
-
 ahora quiero hacer cambios para la rama master antes de hacer un "merge"
+
+Prueba en la cabecera
+
+Esta es una continuacion en la cabecera del archivo
+
+***Ahora he hecho cambios manuales para hacer un merge
