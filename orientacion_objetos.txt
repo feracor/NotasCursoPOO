@@ -27,7 +27,7 @@ Ejemplo
 **************************************************************************************************
 --------------------------------------------------------------------------------------------------
 
-Clase 9 Abstracción y Clases
+Clase 9 - Abstracción y Clases
 
 CLASE: Es el modelo sobre el cual se construira nuestro objeto 
         Las clase permiten generar mas objetos 
@@ -39,3 +39,22 @@ Absatraccion: Es tomar los datos y componentes del objeto para generar "moldes"
 --------------------------------------------------------------------------------------------------
 **************************************************************************************************
 --------------------------------------------------------------------------------------------------
+
+Clase 10 - Modularidad
+
+La modularidad va de la mano del Diseno modular. Es poder dividir en partes que encajan entre si.
+
+Permite la construccion con rapides
+
+Modular codigo permite:
+    Reutilizar codigo
+    Mantenibilidad
+    Soluciona problemas rapidamente
+    Legibilidad
+    Evita colapsos
+
+**EMPEZAR A PROGRAMAR EN PEQUENOS SEGMENTOS - MODULOS **
+
+Las clases se separan en archivos diferentes
+
+ 
