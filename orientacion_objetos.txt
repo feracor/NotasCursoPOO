@@ -1,3 +1,5 @@
+04/04/22
+
  Clase 8 - Objetos
 
 Cuando tengamos un problema lo primero que se debe hacer es idenficar los Objetos
@@ -57,4 +59,46 @@ Modular codigo permite:
 
 Las clases se separan en archivos diferentes
 
+--------------------------------------------------------------------------------------------------
+**************************************************************************************************
+--------------------------------------------------------------------------------------------------
  
+Clase 11 - Analizando Uber en Objeto
+
+los objetos en el ejemplo de Uber son los tipos de servicio de Uber:
+    Uber X
+    Uberpool
+    Uberblack
+    UberVan
+    Usuario
+    Ruta 
+    Conductor
+    Card 
+    Paypal
+    Cash
+    Trip - Quien ejecuta el viaje, que tipo de pago, tipo de servico
+
+--------------------------------------------------------------------------------------------------
+**************************************************************************************************
+--------------------------------------------------------------------------------------------------
+Clase 13 - Clases en UML y su sintaxis en código
+
+Definicion de clases segun el programa:
+
+    Python: class Person:
+                name="";
+                def walk():
+
+    Java:   class Person{
+                String name ="";
+                void walk()
+    }
+
+
+    JS:     function Person(){}
+            Person.prototype.walk=function(){}
+
+
+    PHP:    class Person{
+                $name ="";
+                function walk()
