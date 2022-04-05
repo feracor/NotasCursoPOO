@@ -1,4 +1,4 @@
-Clase 8 - Objetos
+ Clase 8 - Objetos
 
 Cuando tengamos un problema lo primero que se debe hacer es idenficar los Objetos
 
@@ -22,6 +22,19 @@ Ejemplo
     Objeto:             Perro
     Propiedades:        id, nombre, color, raza 
     comportamientos:    ser_adoptado()
+
+--------------------------------------------------------------------------------------------------
+**************************************************************************************************
+--------------------------------------------------------------------------------------------------
+
+Clase 9 Abstracción y Clases
+
+CLASE: Es el modelo sobre el cual se construira nuestro objeto 
+        Las clase permiten generar mas objetos 
+        
+Se deben analizar los objetos y realizar modelos que puedan generar un "molde"
+
+Absatraccion: Es tomar los datos y componentes del objeto para generar "moldes"
 
 --------------------------------------------------------------------------------------------------
 **************************************************************************************************
